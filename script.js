@@ -7,13 +7,11 @@ const bootMessages = [
 
 "Booting Matrix OS...",
 "Loading Kernel...",
-"Checking Memory... OK",
-"Initializing Security Modules...",
-"Connecting to space...",
-"Encrypting Reality...",
-"Loading Terminal...",
-"System Ready.",
-"Welcome, Operator Lewis."
+"retina scan: 34%.........67%......98%...99%... OK",
+"Tracing IP....Location Kenya.....Mombasa...",
+"Connecting to you...",
+"WELCOME, Operator .",
+"Press Hack to continue......",
 
 ];
 
